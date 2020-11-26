@@ -1,0 +1,1 @@
+Added 5 labels, created 5 nodes, set 13 properties, created 4 relationships, completed after 174 ms.
